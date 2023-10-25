@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     const contentElement = document.querySelector('.content');
 
-    const colors = ['#FF5733', '#07AE98', '#3D85C6', '#E55393', '#F333FF'];
+    const colors = ['#FF5733', '#07AE98', '#3D85C6', '#08844C', '#F333FF'];
     
     function changeBackgroundColor() {
         const randomColor = colors[Math.floor(Math.random() * colors.length)];
