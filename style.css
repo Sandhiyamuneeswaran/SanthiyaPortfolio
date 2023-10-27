@@ -43,3 +43,14 @@ h2 {
 p {
     color: #7a3232;
 }
+
+#download_Button{
+    position: relative;
+    margin-left: 45%;
+    width: 100px;
+    height: 40px;
+    background-image: linear-gradient(to right, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 10px;
+    box-shadow: #41dfff;
+}
